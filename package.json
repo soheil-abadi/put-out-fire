@@ -1,0 +1,14 @@
+{
+  "name": "put_out_fire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "soheil-abadi <soheil.abadi1375@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
+}
