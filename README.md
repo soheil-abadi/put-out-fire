@@ -8,7 +8,7 @@ Welcome to WaterFireGame, a web-based game built using HTML, CSS, and JavaScript
 
 ## Game Preview
 
-![Game Preview](../put%20out%20fire.PNG)
+![Game Preview](img/put%20out%20fire.PNG)
 
 ## Features
 
